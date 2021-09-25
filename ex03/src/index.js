@@ -10,7 +10,7 @@ function rangeOfNumbers(startN, endN) {
             numbers.push(endN);
             return numbers;
         }
-    return countArray
+    return countArray;
 }
 // Only change code above this line
 
